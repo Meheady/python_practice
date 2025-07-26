@@ -1,2 +1,4 @@
-for x in b:
-#     print(x)
+with open ('./python_practice/data.txt','r') as file :
+#     content = file.read();
+
+# print(content)
